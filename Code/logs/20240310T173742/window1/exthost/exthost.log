@@ -1,0 +1,11 @@
+2024-03-10 17:37:43.836 [info] Extension host with pid 731 started
+2024-03-10 17:37:43.836 [info] Skipping acquiring lock for /home/capataina/.config/Code/User/workspaceStorage/392e8391cf515c74f3bfe36db66f7f64.
+2024-03-10 17:37:43.869 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-10 17:37:43.877 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-10 17:37:43.902 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-10 17:37:43.996 [info] Eager extensions activated
+2024-03-10 17:37:44.046 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-10 17:37:44.053 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-10 17:49:03.322 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-10 18:11:39.257 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-10 18:11:39.272 [info] Extension host with pid 731 exiting with code 0
