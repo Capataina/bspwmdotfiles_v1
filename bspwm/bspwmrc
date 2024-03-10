@@ -8,10 +8,6 @@ bspc monitor -d I II III IV V
 . "${HOME}/.cache/wal/colors.sh"
 
 # Set the border colors.
-bspc config normal_border_color "$color1"
-bspc config active_border_color "$color2"
-bspc config focused_border_color "$color15"
-bspc config presel_feedback_color "$color1"
 
 bspc config border_width         0
 bspc config window_gap          12
@@ -30,4 +26,3 @@ nitrogen --restore &
 dunst &
 polybar &
 feh --bg-scale $HOME/.config/background-catppuccin-flower.png &
-wal -R
