@@ -1,6 +1,0 @@
-2024-03-10 18:21:22.007 [info] Extension host with pid 1579 started
-2024-03-10 18:21:22.007 [info] Skipping acquiring lock for /home/capataina/.config/Code/User/workspaceStorage/392e8391cf515c74f3bfe36db66f7f64.
-2024-03-10 18:21:22.114 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-03-10 18:21:22.185 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-03-10 18:21:22.211 [info] Extension host terminating: renderer closed the MessagePort
-2024-03-10 18:21:22.213 [info] Extension host with pid 1579 exiting with code 0

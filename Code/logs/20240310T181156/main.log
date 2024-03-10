@@ -1,7 +1,0 @@
-2024-03-10 18:11:56.542 [info] update#setState idle
-2024-03-10 18:12:26.543 [info] update#setState checking for updates
-2024-03-10 18:12:26.582 [info] update#setState idle
-2024-03-10 18:14:09.329 [info] Extension host with pid 1756 exited with code: 15, signal: unknown.
-2024-03-10 18:14:09.330 [error] [UtilityProcess id: 1, type: extensionHost, pid: 1756]: crashed with code 15 and reason 'killed'
-2024-03-10 18:14:09.334 [error] [UtilityProcess type: shared-process, pid: 1766]: crashed with code 15 and reason 'killed'
-2024-03-10 18:14:09.335 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1767]: crashed with code 15 and reason 'killed'

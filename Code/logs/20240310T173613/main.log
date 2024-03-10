@@ -1,6 +1,0 @@
-2024-03-10 17:36:14.070 [info] update#setState idle
-2024-03-10 17:36:44.010 [info] update#setState checking for updates
-2024-03-10 17:36:44.059 [info] update#setState idle
-2024-03-10 17:37:16.237 [info] Extension host with pid 11020 exited with code: 15, signal: unknown.
-2024-03-10 17:37:16.238 [error] [UtilityProcess id: 1, type: extensionHost, pid: 11020]: crashed with code 15 and reason 'killed'
-2024-03-10 17:37:16.253 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 11001]: crashed with code 15 and reason 'killed'

@@ -1,9 +1,0 @@
-2024-03-10 18:31:40.638 [info] Extension host with pid 2565 started
-2024-03-10 18:31:40.638 [info] Skipping acquiring lock for /home/capataina/.config/Code/User/workspaceStorage/392e8391cf515c74f3bfe36db66f7f64.
-2024-03-10 18:31:40.715 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-03-10 18:31:40.804 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-03-10 18:31:40.817 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2024-03-10 18:31:40.843 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-03-10 18:31:40.924 [info] Eager extensions activated
-2024-03-10 18:31:40.952 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2024-03-10 18:31:40.956 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
