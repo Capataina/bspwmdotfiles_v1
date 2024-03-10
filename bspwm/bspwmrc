@@ -22,7 +22,6 @@ setxkbmap -layout tr
 # Startup Applications
 sxhkd &
 picom --config $HOME/.config/picom/picom.conf &
-nitrogen --restore &
 dunst &
 polybar &
 feh --bg-scale $HOME/.config/background-catppuccin-flower.png &
